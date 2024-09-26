@@ -5,5 +5,9 @@ Third line of code in feature contain something.
 
 First line of code in Develop.
 
+Some fruits are red in color
+Most of them are round in shape.
+Orange has orage color.
+
 
 

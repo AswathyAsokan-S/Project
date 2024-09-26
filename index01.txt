@@ -1,5 +1,19 @@
+
 Flowers are different in shape.
 Some have round petals.
 Some are red n color.
 One is rose.
+
+First line of code in Feature.
+Next line of code in Feature.
+Third line of code in feature contain something.
+
+First line of code in Develop.
+
+Some fruits are red in color
+Most of them are round in shape.
+Orange has orage color.
+
+
+
 

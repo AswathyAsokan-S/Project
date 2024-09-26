@@ -1,2 +1,2 @@
 First line in Feature.
-Deconf line in Feature.
+Second line in Feature.

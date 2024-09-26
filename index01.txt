@@ -1,4 +1,2 @@
-First line in Feature.
-Second line in Feature.
-Third line in Feature.
-Next
+First line of code in Feature.
+Next line of code in Feature.
